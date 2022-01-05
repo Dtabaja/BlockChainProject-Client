@@ -1,0 +1,28 @@
+.title {
+    text-align: center;
+    text-size-adjust: 20px;
+}
+
+.spaceDiv {
+    padding-left: 2px;
+    /*padding-top: 15px;*/
+    padding-bottom: 15px;
+    /*margin-top: 20px;*/
+}
+
+.cardSpace {
+    margin: 10px;
+    width: 75%;
+    min-width: fit-content;
+    word-wrap: normal !important;
+}
+
+.cardBorderError {
+    border-color: rgb(250, 6, 6) !important;
+    border-width: thick !important;
+}
+
+.cardBorderCorrect {
+    border-color: rgb(26, 250, 6) !important;
+    border-width: thick !important;
+}
